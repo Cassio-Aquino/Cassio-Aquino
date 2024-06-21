@@ -1,9 +1,10 @@
-## Olá, Eu Sou Cássio!
+# Hi, i'm Cássio.
+## I from Brazil, RS.
 
 
-- 🔭 Atualmente estou estudando JavaScript com foco em Front-End.
-- 💬 Para me contatar use o email: Cassiodeaquinodeoliveira@gmail.com
-- 😄 Pronouns: Ele/Dele
+- 🔭 Actually studing JavaScript with focus in Front-end.
+- 💬 For contact me: Cassiodeaquinodeoliveira@gmail.com
+- 😄 Pronouns: He/his
 
 ##
 
