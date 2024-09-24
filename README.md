@@ -35,14 +35,10 @@
   </a>
 </div>
 
-###
-
 <img align="right" height="150" src="https://i.pinimg.com/originals/6f/61/30/6f61303117eb9da74e554f75ddf913d3.gif"  />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cassio-aquino/cassio-aquino/output/snake.svg" alt="Snake animation" />
 
-###
